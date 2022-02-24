@@ -1,0 +1,9 @@
+[submodule "WavingSketch"]
+	path = WavingSketch
+	url = git://github.com/WavingSketch/Waving-Sketch.git
+[submodule "DHS"]
+	path = DHS
+	url = git://github.com/ZeBraHack0/DHS.git
+[submodule "CuckooCounter"]
+	path = CuckooCounter
+	url = git://github.com/OceanTaraxa/Cuckoo_Counter_Framework.git
