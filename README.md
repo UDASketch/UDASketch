@@ -12,7 +12,7 @@ Source codes of UDA: An unbiased, generic, and accurate sketch for aggregate que
 
 *distributed-version*: muda/mwavingsketch/mcountsketch/mdhs/mcuckoocounter.cpp are distributed or multiple versions of the above five algorithms used for performace comparision.
 
-*WavingSketch*/*DHS*/*Cuckoo Counter*: these directories are original codes open-sourced by their authors. 
+*WavingSketch*/*DHS*/*CuckooCounter*: these directories are original codes open-sourced by their authors. 
 
 Each algorithm can be built and run by the following command: 
 
